@@ -1,5 +1,6 @@
 # Amiga Boot Selector
 
+
 This is a Floppy Switcher for the Amiga 500/2000. It allows you to
 switch DF0/DF1, making it possible to boot from either a Gotek drive
 or the internal floppy drive. without relying on AmigaOS.
